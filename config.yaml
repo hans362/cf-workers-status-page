@@ -28,4 +28,11 @@ monitors:
     url: 'https://blog.hans362.cn/' # URL to fetch
     method: GET # default=GET
     linkable: true # allows the title to be a link, default=true
+    
+  - id: hans362-s-lab # unique identifier
+    name: lab.hans362.cn
+    description: 'Hans362 \'s Lab' # default=empty
+    url: 'https://lab.hans362.cn/' # URL to fetch
+    method: GET # default=GET
+    linkable: true # allows the title to be a link, default=true 
  
